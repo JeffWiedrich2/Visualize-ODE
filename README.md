@@ -1,0 +1,1 @@
+Just attatch the DiffEq.py script to a python project, and then run it. 
